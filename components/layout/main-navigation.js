@@ -18,6 +18,11 @@ const MainNavigation = (props) => {
             </Link>
           </li>
           <li>
+            <Link href="/study">
+              <a>Study</a>
+            </Link>
+          </li>
+          <li>
             <Link href="/contact">
               <a>Contact</a>
             </Link>

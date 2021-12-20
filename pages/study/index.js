@@ -2,7 +2,7 @@ const StudyHomePage = (props) => {
   return (
     <div>
       <h1>Study</h1>
-      <p>This is the study page.</p>
+      <p>This page is under development...</p>
     </div>
   );
 };
