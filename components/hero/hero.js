@@ -15,7 +15,7 @@ const Hero = (props) => {
           height={400}
         />
       </div>
-      <h1>Hi, I'm Angad</h1>
+      <h1>Hi, I'm Angad Singh</h1>
       <p>
         I am a Cadet Pilot with Indigo Airlines. When I am not flying planes, I
         like to code!
